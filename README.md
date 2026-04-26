@@ -77,6 +77,10 @@ Experience: 4+ years. Location: Bangalore.
 
 ---
 
+## Project Site URL
+
+https://ai-talent-scouting-agent-zzj4hyrjym7s8658pz5kgg.streamlit.app/
+
 ## 🧠 Architecture
 
 The agent follows a 5-step pipeline:
