@@ -60,8 +60,43 @@ streamlit run app.py
 
 **Job Description:**
 
-Data Scientist needed. Skills: Python, SQL, Machine Learning, NLP, AWS.  
-Experience: 4+ years. Location: Bangalore.
+Job Title: Senior Data Scientist
+
+Company: DataFlow AI (Series B Startup)
+
+Location: Bangalore (Hybrid - 3 days/week office)
+
+About the Role:
+We are looking for a Senior Data Scientist to lead our ML initiatives. You will work on cutting-edge NLP and recommendation systems.
+
+Required Skills:
+- Python (5+ years)
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- SQL for data extraction
+- AWS (S3, SageMaker, Lambda)
+
+Nice to Have:
+- TensorFlow or PyTorch
+- Transformers (BERT/GPT)
+- MLOps (Kubeflow, MLflow)
+
+Experience Required: 4-7 years
+
+Education: B.Tech/M.Tech in CS/AI/ML
+
+Responsibilities:
+- Build and deploy ML models for production
+- Lead end-to-end data science projects
+- Mentor junior data scientists
+- Collaborate with engineering teams
+
+Salary Range: 22-32 LPA
+
+Why Join Us:
+- Work with modern tech stack
+- Learning budget of 50k/year
+- Health insurance for family what should be the answerof this absed on this dataset with scores
 
 ## 📤 Sample Output
 
