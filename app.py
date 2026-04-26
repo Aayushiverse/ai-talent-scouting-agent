@@ -6,7 +6,7 @@ Main Streamlit Application
 import streamlit as st
 import pandas as pd
 import os
-from openai import OpenAI
+
 
 # Import from utils modules
 from utils.jd_parser import parse_job_description
