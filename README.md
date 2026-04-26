@@ -73,7 +73,8 @@ Experience: 4+ years. Location: Bangalore.
 
 ## 🎥 Demo Video
 
-[Add your demo video link here]
+https://drive.google.com/file/d/1X8Fxd16UUf_EBuc-Y_pqGErW9lJfzaNe/view?usp=drive_link
+
 
 ---
 
