@@ -52,7 +52,6 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
-```text
 ai-talent-scouting-agent/
 ├── app.py
 ├── candidates.csv
@@ -67,6 +66,7 @@ ai-talent-scouting-agent/
 │   └── engagement.py
 └── .streamlit/
     └── secrets.toml
+    
 
 ## 🧪 Sample Input
 
