@@ -66,14 +66,14 @@ ai-talent-scouting-agent/
 │   └── engagement.py
 └── .streamlit/
     └── secrets.toml
-    
+
+---
 
 ## 🧪 Sample Input
 
 **Job Description:**
 
-```text
-Data Scientist needed. Skills: Python, SQL, Machine Learning, NLP, AWS. 
+Data Scientist needed. Skills: Python, SQL, Machine Learning, NLP, AWS.  
 Experience: 4+ years. Location: Bangalore.
 
 ## 📤 Sample Output
