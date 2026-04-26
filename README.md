@@ -30,7 +30,7 @@ streamlit run app.py
 
 ## Architecture Diagram
 
-![Architecture Diagram](image.png)
+![Architecture Diagram](https://github.com/Aayushiverse/ai-talent-scouting-agent/blob/main/Architecture%20diagram.png)
 
 ## 📊 Scoring Logic
 
