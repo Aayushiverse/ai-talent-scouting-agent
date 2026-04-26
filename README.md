@@ -28,6 +28,10 @@ Run the application:
 streamlit run app.py
 
 
+## Architecture Diagram
+
+![Architecture Diagram](image.png)
+
 ## 📊 Scoring Logic
 
 | Score Type     | Weight | Description                                      |
