@@ -52,6 +52,7 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
+
 ai-talent-scouting-agent/
 ├── app.py
 ├── candidates.csv
