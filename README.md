@@ -50,25 +50,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
 
-
-ai-talent-scouting-agent/
-├── app.py
-├── candidates.csv
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── utils/
-│   ├── __init__.py
-│   ├── jd_parser.py
-│   ├── matcher.py
-│   ├── scoring.py
-│   └── engagement.py
-└── .streamlit/
-    └── secrets.toml
-
----
 
 ## 🧪 Sample Input
 
@@ -118,3 +100,24 @@ The agent follows a 5-step pipeline:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+
+## 📁 Project Structure
+
+```text
+ai-talent-scouting-agent/
+├── app.py
+├── candidates.csv
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── utils/
+│   ├── __init__.py
+│   ├── jd_parser.py
+│   ├── matcher.py
+│   ├── scoring.py
+│   └── engagement.py
+└── .streamlit/
+    └── secrets.toml
+
+---
