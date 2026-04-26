@@ -18,7 +18,7 @@ from utils.engagement import generate_conversation, calculate_interest_from_conv
 # -------------------------------
 # Initialize OpenAI Client
 # -------------------------------
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # -------------------------------
 # File path setup
