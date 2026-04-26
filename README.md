@@ -19,15 +19,14 @@ An intelligent agent that automates recruiter workflow - from parsing job descri
 
 ## Installation
 
-Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-talent-scouting-agent.git
-cd ai-talent-scouting-agent
 Install dependencies:
-```bash
+
 pip install -r requirements.txt
-```bash
+
+Run the application:
+
 streamlit run app.py
+
 
 ## 📊 Scoring Logic
 
